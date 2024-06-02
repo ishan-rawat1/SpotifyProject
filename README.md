@@ -1,4 +1,4 @@
-# Spotify cohort analysis project
+# Spotify Statistics Tool:
 - Link: https://spotifya-bnywihthnlhaksfpltz7el.streamlit.app/
 - Analysis is in spotifyProject.ipynb
 
